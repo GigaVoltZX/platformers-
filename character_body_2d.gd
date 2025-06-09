@@ -5,6 +5,7 @@ const Hurt = 2
 const Crouch = 3
 const Wall_slide = 4
 const Roll = 5
+const Dash = 6
 var state = Normal
 var impulse = Vector2()
 var movement = Vector2()
@@ -13,7 +14,7 @@ var wall_left = false
 var wall_right = false
 var Dash_dir = Vector2()
 var Can_dash = true
-const Dash = 5
+
 @export var speed = 150.0
 @export var footsteps: Array [AudioStream]
 # Called when the node enters the scene tree for the first time.

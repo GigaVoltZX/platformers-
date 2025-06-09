@@ -1,34 +1,34 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1749506593
-character_body_2d.gd::GDScript::4411114870128577554::1748906833::0::1::::<>CharacterBody2D<><>0<>0<><>::
+::res://::1749509095
+character_body_2d.gd::GDScript/GDScript::4411114870128577554::1748906833::0::1::::<>CharacterBody2D<><>0<>0<><>::
 coin.gd::GDScript/GDScript::2968455578195789265::1745275710::0::1::::<>Area2D<><>0<>0<><>::
 coin.png::CompressedTexture2D/CompressedTexture2D::3579557749728414252::1745273298::1745273333::1::::<><><>0<>0<>37b7347a3968a32f2f9c45a3cd1027e0<>res://.godot/imported/coin.png-7e710de472b75b3653c3283ef5153eb4.ctex::
-coin.tscn::PackedScene::7107867964659089487::1748906833::0::1::::<><><>0<>0<><>::uid://bij7baknibvn2::::res://coin.gd<>uid://bq87175jylg57::::res://coin.png
+coin.tscn::PackedScene::7107867964659089487::1749506667::0::1::::<><><>0<>0<><>::uid://bij7baknibvn2::::res://coin.gd<>uid://bq87175jylg57::::res://coin.png
 coin_counter.gd::GDScript/GDScript::4125490954066292740::1745275262::0::1::::Coin_Counter<>Control<><>0<>0<><>::
-coin_counter.tscn::PackedScene::6216830774762551224::1748906834::0::1::::<><><>0<>0<><>::uid://by1oh6wrmuq7e::::res://coin_counter.gd<>uid://bq87175jylg57::::res://coin.png<>uid://dailafbpdy880::::res://PixelOperator8.ttf
+coin_counter.tscn::PackedScene::6216830774762551224::1749506668::0::1::::<><><>0<>0<><>::uid://by1oh6wrmuq7e::::res://coin_counter.gd<>uid://bq87175jylg57::::res://coin.png<>uid://dailafbpdy880::::res://PixelOperator8.ttf
 Comparison2x.png::CompressedTexture2D/CompressedTexture2D::5980985625786271462::1738017154::1742929115::1::::<><><>0<>0<>a9c21f9f7294292655e84aa1628f2d74<>res://.godot/imported/Comparison2x.png-fafa6548cf276715ee42372f17a10414.ctex::
 dash_boost.gd::GDScript/GDScript::573034980917359771::1747695563::0::1::::<>Area2D<><>0<>0<><>::
-dash_boost.tscn::PackedScene::5271568708522024280::1748906834::0::1::::<><><>0<>0<><>::uid://ift2judbxr20::::res://dash_boost.gd
+dash_boost.tscn::PackedScene::5271568708522024280::1749506668::0::1::::<><><>0<>0<><>::uid://ift2judbxr20::::res://dash_boost.gd
 Death zone.gd::GDScript/GDScript::7682549736543405415::1739225800::0::1::::<>Area2D<><>0<>0<><>::
-door.tscn::PackedScene::4228535230370892175::1748906834::0::1::::<><><>0<>0<><>::uid://cv4obi46n1l4::::res://Interior-01.png
+door.tscn::PackedScene::4228535230370892175::1749506668::0::1::::<><><>0<>0<><>::uid://cv4obi46n1l4::::res://Interior-01.png
 flames.gd::GDScript/GDScript::8594445605956826518::1743686264::0::1::::<>AnimatedSprite2D<><>0<>0<><>::
 flying demon.gd::GDScript/GDScript::929726294602287168::1743457451::0::1::::<>CharacterBody2D<><>0<>0<><>::
-flying demon.tscn::PackedScene::5695524941542268231::1748906833::0::1::::<><><>0<>0<><>::uid://nimprn7pf2wq::::res://flying demon.gd<>uid://jo8fp038fosi::::res://flying-eye-demon/Spritesheet.png
-ghost demon.tscn::PackedScene::8616743462600134060::1748906833::0::1::::<><><>0<>0<><>::uid://nimprn7pf2wq::::res://flying demon.gd<>uid://dcskfuv7p78gi::::res://ghost demon/demon-idle.png<>uid://dim014uskt8t::::res://ghost demon/demon-attack-no-breath.png<>uid://cfeixicyfdvjl::::res://ghost demon/breath-fire.png<>uid://ceamborwhf0te::::res://ghost demon/breath.png<>uid://duphi7ti7qjuk::::res://flames.gd
+flying demon.tscn::PackedScene::5695524941542268231::1749506667::0::1::::<><><>0<>0<><>::uid://nimprn7pf2wq::::res://flying demon.gd<>uid://jo8fp038fosi::::res://flying-eye-demon/Spritesheet.png
+ghost demon.tscn::PackedScene::8616743462600134060::1749506667::0::1::::<><><>0<>0<><>::uid://nimprn7pf2wq::::res://flying demon.gd<>uid://dcskfuv7p78gi::::res://ghost demon/demon-idle.png<>uid://dim014uskt8t::::res://ghost demon/demon-attack-no-breath.png<>uid://cfeixicyfdvjl::::res://ghost demon/breath-fire.png<>uid://ceamborwhf0te::::res://ghost demon/breath.png<>uid://duphi7ti7qjuk::::res://flames.gd
 icon.svg::CompressedTexture2D/CompressedTexture2D::2501442893837224854::1738015687::1742929115::1::::<><><>0<>0<>fecb0533469881a4e8f2c25a394f1922<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 image_2025-05-12_174711490-removebg-preview.png::CompressedTexture2D/CompressedTexture2D::7860664439293615568::1747090183::1747090191::1::::<><><>0<>0<>04d52a3e940ae94d16063da74eed50ba<>res://.godot/imported/image_2025-05-12_174711490-removebg-preview.png-c371dc68b01022c0aa87c35b21d54038.ctex::
 Interior-01.png::CompressedTexture2D/CompressedTexture2D::185515480257596659::1747692965::1747692954::1::::<><><>0<>0<>9b24420cc00570518a3b463900c1f3f1<>res://.godot/imported/Interior-01.png-d7081e4a56be6037a3626eab907237e2.ctex::
 key.gd::GDScript/GDScript::8654441399420020028::1747694215::0::1::::<>Area2D<><>0<>0<><>::
-key.tscn::PackedScene::4541066616807817983::1748906834::0::1::::<><><>0<>0<><>::uid://dvkjndsq6vy3m::::res://key.gd<>uid://dj8083b5gisv5::::res://image_2025-05-12_174711490-removebg-preview.png
-node_2d.tscn::PackedScene::4360120866840457193::1748906833::0::1::::<><><>0<>0<><>::uid://dmollknf30xeu::::res://FreePlatformerNA/Background/CloudsBack.png<>uid://b331ogta4edgk::::res://character_body_2d.gd<>uid://bx8nny1qcatu2::::res://Colour1/Outline/120x80_PNGSheets/_Run.png<>uid://dbswswkq6vt8x::::res://Colour1/Outline/120x80_PNGSheets/_Attack.png<>uid://bld0rh8j1fx2g::::res://footstep sfx/Dirt Walk 1.ogg<>uid://c1gjevyol2xfw::::res://Colour1/Outline/120x80_PNGSheets/_Idle.png<>uid://boxjgufnc8k8b::::res://footstep sfx/Dirt Walk 2.ogg<>uid://dcsffqhvf8xy5::::res://FreePlatformerNA/Foreground/Tileset.png<>uid://dmhw7hf0lxoyj::::res://Colour1/Outline/120x80_PNGSheets/_Jump.png<>uid://s5oor3dxqtbu::::res://Colour1/Outline/120x80_PNGSheets/_Fall.png<>uid://c02rm0nowerhi::::res://footstep sfx/Dirt Walk 3.ogg<>uid://ceds4t7a7dgjn::::res://footstep sfx/Dirt Walk 4.ogg<>uid://djn8eon8qtcfq::::res://Colour1/Outline/120x80_PNGSheets/_Hit.png<>uid://dkeclb6m6r5to::::res://footstep sfx/Dirt Walk 5.ogg<>uid://dhpqqbky3y2wp::::res://Death zone.gd<>uid://clbgoylxpltd0::::res://audio/Sword Attack 2.ogg<>uid://bl576rvsf2xg6::::res://Colour1/Outline/120x80_PNGSheets/_Crouch.png<>uid://tjhpm2405i5o::::res://audio/Forest Day.ogg<>uid://b1mluq6xex1m8::::res://Colour1/Outline/120x80_PNGSheets/_Dash.png<>uid://covfr612hroj7::::res://Colour1/Outline/120x80_PNGSheets/_CrouchWalk.png<>uid://cne7p08ylv17h::::res://flying demon.tscn<>uid://dk0miubjbco31::::res://Colour1/Outline/120x80_PNGSheets/_WallSlide.png<>uid://bqvd1ljhrobyj::::res://Colour1/Outline/120x80_PNGSheets/_Roll.png<>uid://crerxe4gln8qk::::res://Colour1/Outline/120x80_PNGSheets/_WallClimbNoMovement.png<>uid://du1arg3f2jido::::res://ghost demon.tscn<>uid://chdt74hdjt2iu::::res://dash_boost.tscn<>uid://cutqkar1qwjv1::::res://coin_counter.tscn<>uid://b5xyx6rbj413h::::res://key.tscn<>uid://b1ilmfhd62e2b::::res://door.tscn
+key.tscn::PackedScene::4541066616807817983::1749506668::0::1::::<><><>0<>0<><>::uid://dvkjndsq6vy3m::::res://key.gd<>uid://dj8083b5gisv5::::res://image_2025-05-12_174711490-removebg-preview.png
+node_2d.tscn::PackedScene::4360120866840457193::1749506667::0::1::::<><><>0<>0<><>::uid://dmollknf30xeu::::res://FreePlatformerNA/Background/CloudsBack.png<>uid://b331ogta4edgk::::res://character_body_2d.gd<>uid://bx8nny1qcatu2::::res://Colour1/Outline/120x80_PNGSheets/_Run.png<>uid://dbswswkq6vt8x::::res://Colour1/Outline/120x80_PNGSheets/_Attack.png<>uid://bld0rh8j1fx2g::::res://footstep sfx/Dirt Walk 1.ogg<>uid://c1gjevyol2xfw::::res://Colour1/Outline/120x80_PNGSheets/_Idle.png<>uid://boxjgufnc8k8b::::res://footstep sfx/Dirt Walk 2.ogg<>uid://dcsffqhvf8xy5::::res://FreePlatformerNA/Foreground/Tileset.png<>uid://dmhw7hf0lxoyj::::res://Colour1/Outline/120x80_PNGSheets/_Jump.png<>uid://s5oor3dxqtbu::::res://Colour1/Outline/120x80_PNGSheets/_Fall.png<>uid://c02rm0nowerhi::::res://footstep sfx/Dirt Walk 3.ogg<>uid://ceds4t7a7dgjn::::res://footstep sfx/Dirt Walk 4.ogg<>uid://djn8eon8qtcfq::::res://Colour1/Outline/120x80_PNGSheets/_Hit.png<>uid://dkeclb6m6r5to::::res://footstep sfx/Dirt Walk 5.ogg<>uid://dhpqqbky3y2wp::::res://Death zone.gd<>uid://clbgoylxpltd0::::res://audio/Sword Attack 2.ogg<>uid://bl576rvsf2xg6::::res://Colour1/Outline/120x80_PNGSheets/_Crouch.png<>uid://tjhpm2405i5o::::res://audio/Forest Day.ogg<>uid://b1mluq6xex1m8::::res://Colour1/Outline/120x80_PNGSheets/_Dash.png<>uid://covfr612hroj7::::res://Colour1/Outline/120x80_PNGSheets/_CrouchWalk.png<>uid://cne7p08ylv17h::::res://flying demon.tscn<>uid://dk0miubjbco31::::res://Colour1/Outline/120x80_PNGSheets/_WallSlide.png<>uid://bqvd1ljhrobyj::::res://Colour1/Outline/120x80_PNGSheets/_Roll.png<>uid://crerxe4gln8qk::::res://Colour1/Outline/120x80_PNGSheets/_WallClimbNoMovement.png<>uid://du1arg3f2jido::::res://ghost demon.tscn<>uid://chdt74hdjt2iu::::res://dash_boost.tscn<>uid://cutqkar1qwjv1::::res://coin_counter.tscn<>uid://b5xyx6rbj413h::::res://key.tscn<>uid://b1ilmfhd62e2b::::res://door.tscn
 PixelOperator8.ttf::FontFile/FontFile::7176445224880290575::1745274225::1745274226::1::::<><><>0<>0<>446321aadd54f2cc601dc6dcb44904b3<>res://.godot/imported/PixelOperator8.ttf-d2482ba7dcbdcfd4bed4294503670123.fontdata::
-::res://audio/::1747090191
+::res://audio/::1749507646
 Forest Day.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::1352619908109238026::1739227964::1742929115::1::::<><><>0<>0<>03011058e01cf110b7ad407bbadf94f5<>res://.godot/imported/Forest Day.ogg-e13068489e5246e5ad34a9921d964752.oggvorbisstr::
 Sword Attack 2.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::5547373606848651699::1740437748::1742929115::1::::<><><>0<>0<>187d7fad63edc2d633559d4b27aee527<>res://.godot/imported/Sword Attack 2.ogg-6b46384d3d865fec6e14ab795584aad5.oggvorbisstr::
-::res://Colour1/::1738017230
-::res://Colour1/NoOutline/::1738017230
-::res://Colour1/NoOutline/120x80_gifs/::1738017230
-::res://Colour1/NoOutline/120x80_PNGSheets/::1742929116
+::res://Colour1/::1749507647
+::res://Colour1/NoOutline/::1749507646
+::res://Colour1/NoOutline/120x80_gifs/::1749507646
+::res://Colour1/NoOutline/120x80_PNGSheets/::1749507647
 _Attack2.png::CompressedTexture2D/CompressedTexture2D::8751775630684958877::1738017148::1742929115::1::::<><><>0<>0<>e0f2260d0a76781f46ac9389441d3b47<>res://.godot/imported/_Attack2.png-149f1d7a06496a6f5e5ed29c1b040cbc.ctex::
 _Attack2NoMovement.png::CompressedTexture2D/CompressedTexture2D::3997896862125165481::1738017148::1742929115::1::::<><><>0<>0<>7079b5ac85ce65eaa356fced0806fd6f<>res://.godot/imported/_Attack2NoMovement.png-64a2e172937ebe82f9ab4dcb70c88edd.ctex::
 _Attack.png::CompressedTexture2D/CompressedTexture2D::1931827075401983669::1738017148::1742929115::1::::<><><>0<>0<>d5ad75e0d54d634ba630a3766917ae28<>res://.godot/imported/_Attack.png-cc04a339c776810a13ce634673777898.ctex::
@@ -59,9 +59,9 @@ _WallClimb.png::CompressedTexture2D/CompressedTexture2D::1999152600481938233::17
 _WallClimbNoMovement.png::CompressedTexture2D/CompressedTexture2D::8154615872182610984::1738017148::1742929115::1::::<><><>0<>0<>be72640142958e7f87c7438b4d91315f<>res://.godot/imported/_WallClimbNoMovement.png-433654315f6562b5af072e21905a71ad.ctex::
 _WallHang.png::CompressedTexture2D/CompressedTexture2D::5230322277616300712::1738017148::1742929115::1::::<><><>0<>0<>e18115512c4cccf36a74780d93ea5dfe<>res://.godot/imported/_WallHang.png-3194941396a6fab09140be44398029aa.ctex::
 _WallSlide.png::CompressedTexture2D/CompressedTexture2D::363876528410211478::1738017148::1742929115::1::::<><><>0<>0<>e28c677b9870adc4cee7e85755262fb2<>res://.godot/imported/_WallSlide.png-15eb11b974e0a045173813df49385243.ctex::
-::res://Colour1/Outline/::1740437755
-::res://Colour1/Outline/120x80_gifs/::1738017231
-::res://Colour1/Outline/120x80_PNGSheets/::1742929116
+::res://Colour1/Outline/::1749507647
+::res://Colour1/Outline/120x80_gifs/::1749507647
+::res://Colour1/Outline/120x80_PNGSheets/::1749507647
 _Attack2.png::CompressedTexture2D/CompressedTexture2D::2582463590828164222::1738017149::1742929115::1::::<><><>0<>0<>70465d0453ffd8d6dc779cf911adc90f<>res://.godot/imported/_Attack2.png-973b786f75ca43a42190d24a8d2f7ad5.ctex::
 _Attack2NoMovement.png::CompressedTexture2D/CompressedTexture2D::4115371658227787680::1738017149::1742929115::1::::<><><>0<>0<>8f3fab7bf7469ad6bf5415f919117dc2<>res://.godot/imported/_Attack2NoMovement.png-89bbb38de2758cc15c6a46ecedd5b212.ctex::
 _Attack.png::CompressedTexture2D/CompressedTexture2D::7267978784152550877::1738017149::1742929115::1::::<><><>0<>0<>b1c45d9fef5c5b2f09d4c7d44466cfbf<>res://.godot/imported/_Attack.png-182391e8a6ce50cd34db42e9ef8927b1.ctex::
@@ -92,10 +92,10 @@ _WallClimb.png::CompressedTexture2D/CompressedTexture2D::2940109329328575614::17
 _WallClimbNoMovement.png::CompressedTexture2D/CompressedTexture2D::5975382737566424774::1738017150::1742929116::1::::<><><>0<>0<>fcf6167f112e46a6e1c786071ff7eec3<>res://.godot/imported/_WallClimbNoMovement.png-bb51d5d44ee654ddb2b0599b8bb07d60.ctex::
 _WallHang.png::CompressedTexture2D/CompressedTexture2D::5984786152543459686::1738017150::1742929116::1::::<><><>0<>0<>be5f8466ed62c7d1dba86c037b6345cc<>res://.godot/imported/_WallHang.png-c3f6f8d246bb7725b1082a9a158daa82.ctex::
 _WallSlide.png::CompressedTexture2D/CompressedTexture2D::7913503873997716362::1738017150::1742929116::1::::<><><>0<>0<>9d585585e2144cb874b4d8620a04e5d0<>res://.godot/imported/_WallSlide.png-7e595d7e5e8423056dc5a5f8f8a84c91.ctex::
-::res://Colour2/::1738017230
-::res://Colour2/NoOutline/::1738017229
-::res://Colour2/NoOutline/120x80_gifs/::1738017229
-::res://Colour2/NoOutline/120x80_PNGSheets/::1742929116
+::res://Colour2/::1749507648
+::res://Colour2/NoOutline/::1749507648
+::res://Colour2/NoOutline/120x80_gifs/::1749507648
+::res://Colour2/NoOutline/120x80_PNGSheets/::1749507648
 _Attack2.png::CompressedTexture2D/CompressedTexture2D::6426679668062499995::1738017152::1742929116::1::::<><><>0<>0<>46a4180333f6f572e96f5c3aa69d1548<>res://.godot/imported/_Attack2.png-fd78eba6629fd2daee6ca599d7ff7c6c.ctex::
 _Attack2NoMovement.png::CompressedTexture2D/CompressedTexture2D::83178426538063300::1738017152::1742929116::1::::<><><>0<>0<>3976b68d0b5db1088ab4e35c172f10e2<>res://.godot/imported/_Attack2NoMovement.png-45cba2a46172f6bb98f86b585240fdd7.ctex::
 _Attack.png::CompressedTexture2D/CompressedTexture2D::81159876697551696::1738017152::1742929116::1::::<><><>0<>0<>f021efec1bd795db08607181dde0031f<>res://.godot/imported/_Attack.png-eb8a8040f65c2b965b7b2d7f56827956.ctex::
@@ -126,9 +126,9 @@ _WallClimb.png::CompressedTexture2D/CompressedTexture2D::3191196694561449775::17
 _WallClimbNoMovement.png::CompressedTexture2D/CompressedTexture2D::8116012705584103636::1738017152::1742929115::1::::<><><>0<>0<>42a5591f6822230bcc34125a78343b0d<>res://.godot/imported/_WallClimbNoMovement.png-9bf4014473ffec11170eced69b9cc4a7.ctex::
 _WallHang.png::CompressedTexture2D/CompressedTexture2D::4103755903118748221::1738017152::1742929115::1::::<><><>0<>0<>a3181c817c0a52a3adc8043fdfa419bb<>res://.godot/imported/_WallHang.png-c8f7d69471abb41bbb7062006c1f1b1f.ctex::
 _WallSlide.png::CompressedTexture2D/CompressedTexture2D::4374055559765121733::1738017152::1742929115::1::::<><><>0<>0<>e5a9674edd5111687b757d4f821a7fea<>res://.godot/imported/_WallSlide.png-9ca70dcd8fa288e1546ca58e5c3f4231.ctex::
-::res://Colour2/Outline/::1738017230
-::res://Colour2/Outline/120x80_gifs/::1738017230
-::res://Colour2/Outline/120x80_PNGSheets/::1742929115
+::res://Colour2/Outline/::1749507648
+::res://Colour2/Outline/120x80_gifs/::1749507648
+::res://Colour2/Outline/120x80_PNGSheets/::1749507649
 _Attack2.png::CompressedTexture2D/CompressedTexture2D::8895189920672278522::1738017153::1742929115::1::::<><><>0<>0<>244f6f223f451e90b564b55e100e0e18<>res://.godot/imported/_Attack2.png-d96529f08acfca930800d09825af2221.ctex::
 _Attack2NoMovement.png::CompressedTexture2D/CompressedTexture2D::1579807903588199007::1738017153::1742929115::1::::<><><>0<>0<>6bcb36c83a829b7faec934c363fc8628<>res://.godot/imported/_Attack2NoMovement.png-85616d0e4ddadc7497faa726f2fee471.ctex::
 _Attack.png::CompressedTexture2D/CompressedTexture2D::1177993166743027855::1738017153::1742929115::1::::<><><>0<>0<>ca8eb328d2b9cf73dccd265b72f30c91<>res://.godot/imported/_Attack.png-826052839851f8c5b9e1726438cde750.ctex::
@@ -159,9 +159,9 @@ _WallClimb.png::CompressedTexture2D/CompressedTexture2D::6127807003822612714::17
 _WallClimbNoMovement.png::CompressedTexture2D/CompressedTexture2D::4986975437849444056::1738017154::1742929115::1::::<><><>0<>0<>411fd697b9e3c57c417cb2992c430c40<>res://.godot/imported/_WallClimbNoMovement.png-6cef2b0eb6883f9c216e4b4e5c58f739.ctex::
 _WallHang.png::CompressedTexture2D/CompressedTexture2D::6858656278710342512::1738017154::1742929115::1::::<><><>0<>0<>622b797d0d4aeaa31aa8aa6abd801be5<>res://.godot/imported/_WallHang.png-bb67ec9c44827e777340367ac0714bd0.ctex::
 _WallSlide.png::CompressedTexture2D/CompressedTexture2D::9001149179253608443::1738017154::1742929115::1::::<><><>0<>0<>f90f471a0f17dccd3176fde386a96532<>res://.godot/imported/_WallSlide.png-b38ddfa34e26b77f40001514d42b4ba5.ctex::
-::res://flying-eye-demon/::1742929115
+::res://flying-eye-demon/::1749507649
 Spritesheet.png::CompressedTexture2D/CompressedTexture2D::662614298816812956::1740435074::1742929115::1::::<><><>0<>0<>8f2e021b83633f23c7dd23d7fa7d8cde<>res://.godot/imported/Spritesheet.png-fb4e26aca64f58da0a212c4b3773d108.ctex::
-::res://flying-eye-demon/Sprites/::1745273333
+::res://flying-eye-demon/Sprites/::1749507649
 flying-eye-demon1.png::CompressedTexture2D/CompressedTexture2D::654317845841843735::1740435074::1742929115::1::::<><><>0<>0<>06a9fdd1654f96b85f5cd3d7fd1570ee<>res://.godot/imported/flying-eye-demon1.png-455ba3718575209a02dd86efde309844.ctex::
 flying-eye-demon2.png::CompressedTexture2D/CompressedTexture2D::1620182338273159897::1740435074::1742929115::1::::<><><>0<>0<>8579ecb6679f6736e77079047c4aa526<>res://.godot/imported/flying-eye-demon2.png-e60d35a4216d947200360fe4aa792348.ctex::
 flying-eye-demon3.png::CompressedTexture2D/CompressedTexture2D::8797072971819033179::1740435074::1742929115::1::::<><><>0<>0<>66b09c92e5bc2ce1f64732efa87737c5<>res://.godot/imported/flying-eye-demon3.png-7c7e7856a9220cee7af3f007a4b9028a.ctex::
@@ -170,7 +170,7 @@ flying-eye-demon5.png::CompressedTexture2D/CompressedTexture2D::1895508262081194
 flying-eye-demon6.png::CompressedTexture2D/CompressedTexture2D::8938805666436513327::1740435074::1742929115::1::::<><><>0<>0<>834729657e317f5175b02d0f5a34c184<>res://.godot/imported/flying-eye-demon6.png-7f02f0703fca699053ed01c8de856b4a.ctex::
 flying-eye-demon7.png::CompressedTexture2D/CompressedTexture2D::4850722816696941231::1740435074::1742929115::1::::<><><>0<>0<>8681ff8dd9b52321f8656c94f50a3b37<>res://.godot/imported/flying-eye-demon7.png-f8e4224e35e180f9653f84cc1d410601.ctex::
 flying-eye-demon8.png::CompressedTexture2D/CompressedTexture2D::1200373079276423803::1740435074::1742929115::1::::<><><>0<>0<>8f107be7c34f32e0b86027a2aed365ad<>res://.godot/imported/flying-eye-demon8.png-0f80400c1c911fb9310c071892e1159d.ctex::
-::res://footstep sfx/::1742929115
+::res://footstep sfx/::1749507649
 Dirt Chain Jump.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::4100937283448427558::1739227962::1742929115::1::::<><><>0<>0<>ae6f49337a638e9ec7a0ceb81fb90802<>res://.godot/imported/Dirt Chain Jump.ogg-27fd80a3cf82e4ac75579a0fd9f0690f.oggvorbisstr::
 Dirt Chain Land.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::8031807710768499064::1739227962::1742929115::1::::<><><>0<>0<>dd741f490b6975642c7a9602555adb2a<>res://.godot/imported/Dirt Chain Land.ogg-58ba70e72f7bdd016130b26848012971.oggvorbisstr::
 Dirt Chain Run 1.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::3163074584299872540::1739227962::1742929115::1::::<><><>0<>0<>0c139e6e365211f17a03de7be43e53ad<>res://.godot/imported/Dirt Chain Run 1.ogg-266bef2ebf9d5adb7904ccb0fa5357f3.oggvorbisstr::
@@ -195,18 +195,18 @@ Dirt Walk 2.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::3417103409452924691:
 Dirt Walk 3.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::6584355609932397754::1739227962::1742929115::1::::<><><>0<>0<>83ac9ca48c07dc768d412adce0a05712<>res://.godot/imported/Dirt Walk 3.ogg-b9e8efad6e2bd9244a3bf8fd8973371d.oggvorbisstr::
 Dirt Walk 4.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::5060935616513831279::1739227962::1742929115::1::::<><><>0<>0<>152f1f35cbd150bb5d14ff8a7501d4e6<>res://.godot/imported/Dirt Walk 4.ogg-cdf16e704b02a8b962aad45352e675b4.oggvorbisstr::
 Dirt Walk 5.ogg::AudioStreamOggVorbis/AudioStreamOggVorbis::7869549177193994948::1739227962::1742929115::1::::<><><>0<>0<>5309c07ecb9a3f7a0926dbbc5338c07f<>res://.godot/imported/Dirt Walk 5.ogg-74543b73f373b85e8a9434d205ad3937.oggvorbisstr::
-::res://FreePlatformerNA/::1742929115
+::res://FreePlatformerNA/::1749507649
 Mockup.png::CompressedTexture2D/CompressedTexture2D::391031938699041074::1738620489::1742929115::1::::<><><>0<>0<>049181fb0212a50aecdf34d404ddfc70<>res://.godot/imported/Mockup.png-3602a80b1c8ab4f723441cfdd08905c6.ctex::
-::res://FreePlatformerNA/Background/::1742929115
+::res://FreePlatformerNA/Background/::1749507649
 BGBack.png::CompressedTexture2D/CompressedTexture2D::5132503442067274361::1738620489::1742929115::1::::<><><>0<>0<>0bd617461e4977d6daec3b8d15b30f1a<>res://.godot/imported/BGBack.png-4526335409ae877232134fa3cdccd14d.ctex::
 BGFront.png::CompressedTexture2D/CompressedTexture2D::3839335686202254531::1738620489::1742929115::1::::<><><>0<>0<>d16051290f81374dcc33450ad422b0f6<>res://.godot/imported/BGFront.png-e94c2934e741ed8b398a6c4939f9e8f3.ctex::
 CloudsBack.png::CompressedTexture2D/CompressedTexture2D::8031117539527476320::1738620489::1742929115::1::::<><><>0<>0<>124b7694f055e8ed74dc99d3ed3886f3<>res://.godot/imported/CloudsBack.png-4e69e274be28401d21ed5f65f9ce8803.ctex::
 CloudsFront.png::CompressedTexture2D/CompressedTexture2D::36125184441043062::1738620489::1742929115::1::::<><><>0<>0<>904e11441289cb292f8d077c7c3b4256<>res://.godot/imported/CloudsFront.png-ceb834917c0b9820ce345140bf0c3cb2.ctex::
-::res://FreePlatformerNA/Foreground/::1742929115
+::res://FreePlatformerNA/Foreground/::1749507650
 Tileset.png::CompressedTexture2D/CompressedTexture2D::7337111904011183970::1738620489::1742929115::1::::<><><>0<>0<>f7892055f92f77d6e8648a9342b4ec85<>res://.godot/imported/Tileset.png-17bbd3d9f7bc2d58ea711ebf8af53caf.ctex::
 TilesExamples.png::CompressedTexture2D/CompressedTexture2D::2668329977328565054::1738620489::1742929115::1::::<><><>0<>0<>5530e2bd261c8011173532bcabb56495<>res://.godot/imported/TilesExamples.png-01e13fb2249c778384a1e62b7be025d9.ctex::
 Trees.png::CompressedTexture2D/CompressedTexture2D::5086499619255068989::1738620489::1742929115::1::::<><><>0<>0<>cf90d169609c9cffb3036e567e0957a3<>res://.godot/imported/Trees.png-d97aead5a604f784272acf304bb8d157.ctex::
-::res://ghost demon/::1742929115
+::res://ghost demon/::1749507650
 breath-fire.png::CompressedTexture2D/CompressedTexture2D::5132570330168231801::1739285992::1742929115::1::::<><><>0<>0<>353757b10327c993e290e7bfb6e8d727<>res://.godot/imported/breath-fire.png-a8741b4ae3474579707cf2956a69443d.ctex::
 breath.png::CompressedTexture2D/CompressedTexture2D::5054327894243170950::1739285992::1742929115::1::::<><><>0<>0<>ffb1b93feff9dfeaa455132f7e9f5938<>res://.godot/imported/breath.png-c77653fe36547d020275ee374c33b76b.ctex::
 demon-attack-no-breath.png::CompressedTexture2D/CompressedTexture2D::227856213047005809::1739285992::1742929115::1::::<><><>0<>0<>678bd9ea2bdf23b470a35bd6c35ce178<>res://.godot/imported/demon-attack-no-breath.png-a1108c8bf4dc3ddc915196bdea729ce6.ctex::

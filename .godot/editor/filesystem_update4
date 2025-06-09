@@ -1,8 +1,2 @@
 res://node_2d.tscn
-res://flying demon.tscn
-res://ghost demon.tscn
-res://coin.tscn
-res://coin_counter.tscn
-res://dash_boost.tscn
-res://key.tscn
-res://door.tscn
+res://character_body_2d.gd
