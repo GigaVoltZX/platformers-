@@ -1,0 +1,99 @@
+[gd_scene load_steps=14 format=3 uid="uid://cne7p08ylv17h"]
+
+[ext_resource type="Script" uid="uid://nimprn7pf2wq" path="res://flying demon.gd" id="1_xrn5h"]
+[ext_resource type="Texture2D" uid="uid://jo8fp038fosi" path="res://flying-eye-demon/Spritesheet.png" id="2_jyt50"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_sf6qd"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(0, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_6xi7t"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(48, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_h02q4"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(96, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_nlabe"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(144, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_fkync"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(192, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_kmoqm"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(240, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_tlp55"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(288, 0, 48, 48)
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_vao81"]
+atlas = ExtResource("2_jyt50")
+region = Rect2(336, 0, 48, 48)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_jr7vb"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_sf6qd")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_6xi7t")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_h02q4")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_nlabe")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_fkync")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_kmoqm")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_tlp55")
+}, {
+"duration": 1.0,
+"texture": SubResource("AtlasTexture_vao81")
+}],
+"loop": true,
+"name": &"default",
+"speed": 10.0
+}]
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_mpibe"]
+radius = 11.0454
+
+[sub_resource type="CircleShape2D" id="CircleShape2D_c5pog"]
+radius = 14.0
+
+[node name="Node2D" type="CharacterBody2D" groups=["Enemy"]]
+collision_mask = 2
+script = ExtResource("1_xrn5h")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+texture_filter = 1
+sprite_frames = SubResource("SpriteFrames_jr7vb")
+autoplay = "default"
+frame_progress = 0.818691
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(3, 1)
+shape = SubResource("CircleShape2D_mpibe")
+
+[node name="Area2D" type="Area2D" parent="."]
+collision_layer = 3
+collision_mask = 2
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(1, 2)
+shape = SubResource("CircleShape2D_c5pog")
+debug_color = Color(0.981629, 0, 0.369384, 0.42)
+
+[connection signal="body_entered" from="Area2D" to="." method="_on_area_2d_body_entered"]

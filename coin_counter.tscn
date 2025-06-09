@@ -1,0 +1,35 @@
+[gd_scene load_steps=5 format=3 uid="uid://cutqkar1qwjv1"]
+
+[ext_resource type="Script" uid="uid://by1oh6wrmuq7e" path="res://coin_counter.gd" id="1_uqxm6"]
+[ext_resource type="Texture2D" uid="uid://bq87175jylg57" path="res://coin.png" id="2_t3xos"]
+[ext_resource type="FontFile" uid="uid://dailafbpdy880" path="res://PixelOperator8.ttf" id="3_l3awy"]
+
+[sub_resource type="AtlasTexture" id="AtlasTexture_86b0k"]
+atlas = ExtResource("2_t3xos")
+region = Rect2(0, 0, 16.0328, 16.2373)
+
+[node name="coin counter" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_uqxm6")
+
+[node name="TextureRect" type="TextureRect" parent="."]
+layout_mode = 0
+offset_right = 40.0
+offset_bottom = 40.0
+texture = SubResource("AtlasTexture_86b0k")
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 38.0
+offset_top = 13.0
+offset_right = 80.0
+offset_bottom = 36.0
+theme_override_colors/font_color = Color(0, 0, 0, 1)
+theme_override_colors/font_shadow_color = Color(0, 1, 0, 1)
+theme_override_fonts/font = ExtResource("3_l3awy")
+text = "0"

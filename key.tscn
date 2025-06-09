@@ -1,0 +1,33 @@
+[gd_scene load_steps=5 format=3 uid="uid://b5xyx6rbj413h"]
+
+[ext_resource type="Script" uid="uid://dvkjndsq6vy3m" path="res://key.gd" id="1_p0yg6"]
+[ext_resource type="Texture2D" uid="uid://dj8083b5gisv5" path="res://image_2025-05-12_174711490-removebg-preview.png" id="2_krfvd"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_d8y70"]
+size = Vector2(17.5, 8)
+
+[sub_resource type="SpriteFrames" id="SpriteFrames_k4l57"]
+animations = [{
+"frames": [{
+"duration": 1.0,
+"texture": ExtResource("2_krfvd")
+}],
+"loop": true,
+"name": &"default",
+"speed": 5.0
+}]
+
+[node name="Area2D" type="Area2D"]
+position = Vector2(12, 0)
+script = ExtResource("1_p0yg6")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-14.25, 1)
+shape = SubResource("RectangleShape2D_d8y70")
+
+[node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="."]
+position = Vector2(-14, 1)
+scale = Vector2(0.178044, 0.18)
+sprite_frames = SubResource("SpriteFrames_k4l57")
+
+[connection signal="body_entered" from="." to="." method="_on_body_entered"]

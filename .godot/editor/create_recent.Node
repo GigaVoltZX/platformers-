@@ -1,0 +1,14 @@
+Timer
+Parallax2D
+CollisionShape2D
+Area2D
+Sprite2D
+StaticBody2D
+AnimatedSprite2D
+Polygon2D
+RayCast2D
+CanvasLayer
+Label
+TextureRect
+AnimationTree
+PathFollow2D

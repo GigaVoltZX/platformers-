@@ -1,0 +1,23 @@
+[gd_scene load_steps=3 format=3 uid="uid://chdt74hdjt2iu"]
+
+[ext_resource type="Script" uid="uid://ift2judbxr20" path="res://dash_boost.gd" id="1_6w8cl"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bhinr"]
+
+[node name="dash boost" type="Area2D"]
+script = ExtResource("1_6w8cl")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_bhinr")
+debug_color = Color(0.805265, 0.414657, 0.0879804, 0.42)
+
+[node name="Polygon2D" type="Polygon2D" parent="."]
+color = Color(0.838984, 0.838331, 0.968224, 1)
+polygon = PackedVector2Array(0, -9, -8, 0, 0, 9, 8, 0)
+
+[node name="Timer" type="Timer" parent="."]
+wait_time = 0.15
+ignore_time_scale = true
+
+[connection signal="area_entered" from="." to="." method="_on_area_entered"]
+[connection signal="timeout" from="Timer" to="." method="_on_timer_timeout"]

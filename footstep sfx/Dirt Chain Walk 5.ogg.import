@@ -1,0 +1,19 @@
+[remap]
+
+importer="oggvorbisstr"
+type="AudioStreamOggVorbis"
+uid="uid://dxcmy03wvuboj"
+path="res://.godot/imported/Dirt Chain Walk 5.ogg-7efef89b93f1a1bc6067855d9cae80b6.oggvorbisstr"
+
+[deps]
+
+source_file="res://footstep sfx/Dirt Chain Walk 5.ogg"
+dest_files=["res://.godot/imported/Dirt Chain Walk 5.ogg-7efef89b93f1a1bc6067855d9cae80b6.oggvorbisstr"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
